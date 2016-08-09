@@ -1,0 +1,1 @@
+# ambari-openstack-stack
